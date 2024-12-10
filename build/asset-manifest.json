@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-analyzer/static/css/main.dc4d6ff2.css",
+    "main.js": "/word-analyzer/static/js/main.b150acf5.js",
+    "index.html": "/word-analyzer/index.html",
+    "main.dc4d6ff2.css.map": "/word-analyzer/static/css/main.dc4d6ff2.css.map",
+    "main.b150acf5.js.map": "/word-analyzer/static/js/main.b150acf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b150acf5.js"
+  ]
+}
